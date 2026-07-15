@@ -26,4 +26,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1108-defanging-an-ip-address) |
+| [3110-score-of-a-string](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
