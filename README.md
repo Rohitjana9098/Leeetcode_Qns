@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
