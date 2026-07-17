@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0992-subarrays-with-k-different-integers) |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
