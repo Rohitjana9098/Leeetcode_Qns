@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0992-subarrays-with-k-different-integers) |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1280-students-and-examinations](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1280-students-and-examinations) |
 | [1934-confirmation-rate](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1934-confirmation-rate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
