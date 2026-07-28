@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0992-subarrays-with-k-different-integers) |
+| [1480-running-sum-of-1d-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
