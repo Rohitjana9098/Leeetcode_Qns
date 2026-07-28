@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1075-project-employees-i) |
 | [1280-students-and-examinations](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1280-students-and-examinations) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1667-fix-names-in-a-table](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1667-fix-names-in-a-table) |
 | [1934-confirmation-rate](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1934-confirmation-rate) |
 ## Divide and Conquer
 |  |
