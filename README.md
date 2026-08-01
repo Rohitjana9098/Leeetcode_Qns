@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2270-number-of-ways-to-split-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2270-number-of-ways-to-split-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 |  |
 | ------- |
