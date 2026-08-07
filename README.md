@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0136-single-number) |
 | [0525-contiguous-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0525-contiguous-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0039-combination-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
