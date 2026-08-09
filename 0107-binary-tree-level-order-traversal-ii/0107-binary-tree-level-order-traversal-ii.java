@@ -21,11 +21,12 @@ class Solution {
                     q.offer(node.right);
                 }
             }
-            ans.add(Temp);
+            //ans.add(Temp);
+            ans.add(0,Temp);
         } 
         
         // Reverse the list in-place first
-        Collections.reverse(ans);
+        //Collections.reverse(ans);
         
         // Then return it
         return ans;
