@@ -19,19 +19,19 @@ class Solution {
     public boolean isValidBST(TreeNode root) {
         prev = null;
         result = true;
-        helper(root);
+        inorder(root);
         return result;
     }
-     public void helper(TreeNode root) {
+     public void inorder(TreeNode root) {
         if(root == null || !result) {
             return;
         }
-        helper(root.left);
+        inorder(root.left);
         if(prev!=null && root.val <= prev.val) {
             result = false;
             return;
         }
         prev = root;
-        helper(root.right);
+        inorder(root.right);
      }
 }
