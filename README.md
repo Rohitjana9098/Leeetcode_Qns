@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1382-balance-a-binary-search-tree) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1382-balance-a-binary-search-tree) |
