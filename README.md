@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
