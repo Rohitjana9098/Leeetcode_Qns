@@ -4,7 +4,7 @@ class Solution {
         int low = 0;
         int high = arr.length -1;
         int ans = 0;
-        int n = arr.length;
+
         while(low < high) {
             int mid = low + (high - low) / 2;
            if(arr[mid] <= arr[mid+1]) {
