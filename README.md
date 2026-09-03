@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0992-subarrays-with-k-different-integers) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
