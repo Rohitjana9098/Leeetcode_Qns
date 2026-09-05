@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/2574-left-and-right-sum-differences) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1382-balance-a-binary-search-tree) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## DP on Trees
 |  |
 | ------- |
