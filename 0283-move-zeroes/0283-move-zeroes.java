@@ -1,18 +1,14 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int i = 0; // Write pointer for non-zero elements
-
-        // Phase 1: Overwrite non-zero values into index i
-        for (int read = 0; read < nums.length; read++) {
-            if (nums[read] != 0) {
-                nums[i] = nums[read];
-                i++;
-            }
+        int value = 0; 
+        for(int i = 0; i < nums.length;i++) {
+           if(nums[i] != 0) {
+            nums[value] = nums[i];
+            value++;
+           }
         }
-
-        // Phase 2: Fill remaining positions from index i to the end with 0
-        for (int j = i; j < nums.length; j++) {
-            nums[j] = 0;
+        for(int j = value; j < nums.length;j++) {
+           nums[j] = 0;
         }
     }
 }
