@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0075-sort-colors) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0922-sort-array-by-parity-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quicksort
 |  |
 | ------- |
@@ -428,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
