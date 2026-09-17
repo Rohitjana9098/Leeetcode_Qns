@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0525-contiguous-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0525-contiguous-array) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0992-subarrays-with-k-different-integers) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0922-sort-array-by-parity-ii) |
@@ -440,10 +445,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
