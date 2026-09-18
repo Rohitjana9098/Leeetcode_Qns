@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0904-fruit-into-baskets) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1189-maximum-number-of-balloons) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0606-construct-string-from-binary-tree) |
+| [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1189-maximum-number-of-balloons) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0922-sort-array-by-parity-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -447,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
@@ -457,4 +463,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
