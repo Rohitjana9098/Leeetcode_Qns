@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0141-linked-list-cycle) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0326-power-of-three) |
