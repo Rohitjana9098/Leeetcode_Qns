@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0767-reorganize-string) |
+| [0784-letter-case-permutation](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0784-letter-case-permutation) |
 | [1108-defanging-an-ip-address](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1189-maximum-number-of-balloons) |
 | [3110-score-of-a-string](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/3110-score-of-a-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0342-power-of-four) |
+| [0784-letter-case-permutation](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0784-letter-case-permutation) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0113-path-sum-ii) |
+| [0784-letter-case-permutation](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0784-letter-case-permutation) |
 ## Bracket Sequences
 |  |
 | ------- |
