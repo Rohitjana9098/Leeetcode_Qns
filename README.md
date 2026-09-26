@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0136-single-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0342-power-of-four) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0113-path-sum-ii) |
 ## Bracket Sequences
 |  |
