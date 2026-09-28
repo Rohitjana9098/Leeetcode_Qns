@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0784-letter-case-permutation) |
 | [1108-defanging-an-ip-address](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1189-maximum-number-of-balloons) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3110-score-of-a-string](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/0232-implement-queue-using-stacks) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
@@ -516,5 +518,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Rohitjana9098/Leeetcode_Qns/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
