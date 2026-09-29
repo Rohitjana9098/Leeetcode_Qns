@@ -1,15 +1,21 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<>();
-        backtrack(res,"",0,0,n);
-        return res;
-    }
-    private void backtrack(List<String> res , String cur , int open , int close , int n ) {
-       if(cur.length() == 2 * n) {
-        res.add(cur);
+        List<String> result = new ArrayList<>();
+        backtrack(result, "", 0, 0, n);
+        return result;
+        
+        }
+    private void backtrack(List<String> result,String current,int open,int close,int n) {
+        //Base case
+    if(current.length() == 2 * n) {
+        result.add(current);
         return;
-       }
-       if(open < n) backtrack(res,cur + "(",open + 1,close,n);
-       if(close < open) backtrack(res,cur + ")",open,close+1,n);
+      }
+    if(open < n) {
+        backtrack(result,current + "(",open + 1,close,n);
+    }
+    if(close < open) {
+        backtrack(result,current + ")",open,close+1,n);
+     }
     }
 }
