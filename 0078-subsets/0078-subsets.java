@@ -4,30 +4,28 @@ class Solution {
     public List<List<Integer>> subsets(int[] nums) {
 
         List<List<Integer>> result = new ArrayList<>();
-        List<Integer> temp = new ArrayList<>();
+        List<Integer> curr = new ArrayList<>();
 
-        generateSubsets(nums, 0, temp, result);
+        generateSubsets(nums, 0, curr, result);
 
         return result;
     }
 
-    private void generateSubsets(int[] nums, int idx,List<Integer> temp,List<List<Integer>> result) {
+    private void generateSubsets(int[] nums, int idx,List<Integer> curr,List<List<Integer>> result) {
 
         // Base case
         if (idx == nums.length) {
-            result.add(new ArrayList<>(temp));
+            result.add(new ArrayList<>(curr));
             return;
         }
 
-        // Choice 1: Exclude the current element
-        generateSubsets(nums, idx + 1, temp, result);
+        generateSubsets(nums, idx + 1, curr, result);
 
-        // Choice 2: Include the current element
-        temp.add(nums[idx]);
+        curr.add(nums[idx]);
 
-        generateSubsets(nums, idx + 1, temp, result);
+        generateSubsets(nums, idx + 1, curr, result);
 
         // Backtrack
-        temp.remove(temp.size() - 1);
+        curr.remove(curr.size() - 1);
     }
 }
