@@ -1,34 +1,33 @@
-
-public class Solution {
+class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        int n = candidates.length;
+        int index = 0;
+        int sum = 0;
+        List<Integer> temp = new ArrayList<>();
         List<List<Integer>> result = new ArrayList<>();
-        // Sorting enables early pruning when candidate > remaining target
-        Arrays.sort(candidates);
-        
-        backtrack(candidates, target, 0, new ArrayList<>(), result);
-        return result;
-    }
 
-    private void backtrack(int[] candidates, int targetRemaining, int start, 
-                           List<Integer> path, List<List<Integer>> result) {
-        // Base case: combination found
-        if (targetRemaining == 0) {
-            result.add(new ArrayList<>(path));
-            return;
+        fun(candidates,n,index,temp,sum,result,target);     
+        return result;   
         }
-
-        for (int i = start; i < candidates.length; i++) {
-            // Early pruning: stop exploring if the number exceeds the remaining target
-            if (candidates[i] > targetRemaining) {
-                break;
+    private static void fun(int[] a, int n,int index,List<Integer> temp , int sum,
+    List<List<Integer>> res,int target) {
+        if(index == n){
+            if(sum == target) {
+                res.add(new ArrayList<>(temp));
             }
-
-            // Choose
-            path.add(candidates[i]);
-            // Explore: pass 'i' (not 'i + 1') to allow reusing the same element
-            backtrack(candidates, targetRemaining - candidates[i], i, path, result);
-            // Backtrack (un-choose)
-            path.remove(path.size() - 1);
+        return;
         }
+        //choice 1
+        fun(a,n,index+1,temp,sum,res,target);
+        //choice 2
+        if(sum + a[index] <= target) {
+            temp.add(a[index]);
+            sum+=a[index];
+            fun(a,n,index,temp,sum,res,target);
+            temp.remove(temp.size() - 1);
+            sum -= a[index];
+        }
+
     }
+
 }
